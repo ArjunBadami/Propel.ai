@@ -1,0 +1,4 @@
+From the Purchase Order, what are the risks associated with Section 3.0?
+What is the critical path for project found in "propel_beta\\Sample.xlsx"
+Get the payment milestone data for project found in "propel_beta\\Sample.xlsx"
+Generate a monthly report for project found in "propel_beta\\Sample.xlsx"
